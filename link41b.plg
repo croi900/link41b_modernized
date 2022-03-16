@@ -1,0 +1,118 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: link41b - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\DANNYS~1\LOCALS~1\Temp\RSP1025.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /I "include" /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Release/" /Fp"Release/link41b.pch" /YX /Fo"Release/" /Fd"Release/" /FD /GZ /c 
+"C:\temp\link41b\src\analyze-linkage.c"
+"C:\temp\link41b\src\and.c"
+"C:\temp\link41b\src\api.c"
+"C:\temp\link41b\src\build-disjuncts.c"
+"C:\temp\link41b\src\command-line.c"
+"C:\temp\link41b\src\constituents.c"
+"C:\temp\link41b\src\count.c"
+"C:\temp\link41b\src\error.c"
+"C:\temp\link41b\src\extract-links.c"
+"C:\temp\link41b\src\fast-match.c"
+"C:\temp\link41b\src\idiom.c"
+"C:\temp\link41b\src\linkset.c"
+"C:\temp\link41b\src\massage.c"
+"C:\temp\link41b\src\parse.c"
+"C:\temp\link41b\src\post-process.c"
+"C:\temp\link41b\src\pp_knowledge.c"
+"C:\temp\link41b\src\pp_lexer.c"
+"C:\temp\link41b\src\pp_linkset.c"
+"C:\temp\link41b\src\preparation.c"
+"C:\temp\link41b\src\print-util.c"
+"C:\temp\link41b\src\print.c"
+"C:\temp\link41b\src\prune.c"
+"C:\temp\link41b\src\read-dict.c"
+"C:\temp\link41b\src\resources.c"
+"C:\temp\link41b\src\string-set.c"
+"C:\temp\link41b\src\tokenize.c"
+"C:\temp\link41b\src\utilities.c"
+"C:\temp\link41b\src\word-file.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\DANNYS~1\LOCALS~1\Temp\RSP1025.tmp" 
+Creating temporary file "C:\DOCUME~1\DANNYS~1\LOCALS~1\Temp\RSP1026.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/link41b.pdb" /machine:I386 /out:"Release/link41b.exe" 
+".\Release\analyze-linkage.obj"
+.\Release\and.obj
+.\Release\api.obj
+".\Release\build-disjuncts.obj"
+".\Release\command-line.obj"
+.\Release\constituents.obj
+.\Release\count.obj
+.\Release\error.obj
+".\Release\extract-links.obj"
+".\Release\fast-match.obj"
+.\Release\idiom.obj
+.\Release\linkset.obj
+.\Release\massage.obj
+.\Release\parse.obj
+".\Release\post-process.obj"
+.\Release\pp_knowledge.obj
+.\Release\pp_lexer.obj
+.\Release\pp_linkset.obj
+.\Release\preparation.obj
+".\Release\print-util.obj"
+.\Release\print.obj
+.\Release\prune.obj
+".\Release\read-dict.obj"
+.\Release\resources.obj
+".\Release\string-set.obj"
+.\Release\tokenize.obj
+.\Release\utilities.obj
+".\Release\word-file.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\DANNYS~1\LOCALS~1\Temp\RSP1026.tmp"
+<h3>Output Window</h3>
+Compiling...
+analyze-linkage.c
+and.c
+c:\temp\link41b\src\analyze-linkage.c(844) : warning C4700: local variable 'li' used without having been initialized
+api.c
+build-disjuncts.c
+command-line.c
+constituents.c
+count.c
+c:\temp\link41b\src\constituents.c(993) : warning C4761: integral size mismatch in argument; conversion supplied
+error.c
+extract-links.c
+fast-match.c
+idiom.c
+linkset.c
+massage.c
+parse.c
+post-process.c
+pp_knowledge.c
+pp_lexer.c
+c:\program files\microsoft visual studio\vc98\include\stdlib.h(367) : warning C4028: formal parameter 1 different from declaration
+c:\program files\microsoft visual studio\vc98\include\stdlib.h(385) : warning C4028: formal parameter 1 different from declaration
+pp_linkset.c
+preparation.c
+print-util.c
+print.c
+prune.c
+read-dict.c
+resources.c
+string-set.c
+tokenize.c
+utilities.c
+word-file.c
+Linking...
+LINK : warning LNK4075: ignoring /EDITANDCONTINUE due to /INCREMENTAL:NO specification
+
+
+
+<h3>Results</h3>
+link41b.exe - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>
