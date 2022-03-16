@@ -18,6 +18,7 @@
  *   bracketing constituents labeled "PP" (prepositional phrase).
  ****************************************************************************/
 #include "link-includes.h"
+
 void print_words_with_prep_phrases_marked(CNode *n)
 {
     CNode *m;

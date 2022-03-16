@@ -1,0 +1,1914 @@
+   Opening ./data/4.0.dict
+   Opening data/words/words.n.p
+   Opening data/words/words.n.1
+   Opening data/words/words.n.2.s
+   Opening data/words/words.n.2.x
+   Opening data/words/words.n.3
+   Opening data/words/words.n.4
+   Opening data/words/words.s
+   Opening data/words/words.n.t
+   Opening data/words/words.y
+   Opening data/words/words.v.1.1
+   Opening data/words/words.v.1.2
+   Opening data/words/words.v.1.3
+   Opening data/words/words.v.1.4
+   Opening data/words/words.v.5.1
+   Opening data/words/words.v.5.2
+   Opening data/words/words.v.5.3
+   Opening data/words/words.v.5.4
+   Opening data/words/words.v.2.1
+   Opening data/words/words.v.2.2
+   Opening data/words/words.v.2.3
+   Opening data/words/words.v.2.4
+   Opening data/words/words.v.2.5
+   Opening data/words/words.v.6.1
+   Opening data/words/words.v.6.2
+   Opening data/words/words.v.6.3
+   Opening data/words/words.v.6.4
+   Opening data/words/words.v.6.5
+   Opening data/words/words.v.4.1
+   Opening data/words/words.v.4.2
+   Opening data/words/words.v.4.3
+   Opening data/words/words.v.4.4
+   Opening data/words/words.v.4.5
+   Opening data/words/words.v.8.1
+   Opening data/words/words.v.8.2
+   Opening data/words/words.v.8.3
+   Opening data/words/words.v.8.4
+   Opening data/words/words.v.8.5
+   Opening data/words/words.v.1.p
+   Opening data/words/words.v.10.1
+   Opening data/words/words.v.10.2
+   Opening data/words/words.v.10.3
+   Opening data/words/words.v.10.4
+   Opening data/words/words.adj.1
+   Opening data/words/words.adj.2
+   Opening data/words/words.adj.3
+   Opening data/words/words.adv.3
+   Opening data/words/words.adv.1
+   Opening data/words/words.adv.2
+   Opening data/4.0.knowledge
+   Opening data/4.0.constituent-knowledge
+   Opening data/4.0.affix
+linkparser> linkparser> verbosity set to 1
+linkparser> Echoing of input sentence turned on.
+linkparser> limit set to 1000
+linkparser> Batch mode turned on.
+short set to 20
+constituents set to 1
+The fact that he smiled at me gives me hope
+++++Time                                          0.00 seconds (0.00 total)
+*The event that he smiled at me gives me hope
+++++Time                                          0.00 seconds (0.00 total)
+But my efforts to win his heart have failed
+++++Time                                          0.00 seconds (0.00 total)
+*But my presents to win his heart have failed
+++++Time                                          0.00 seconds (0.00 total)
+Failure to comply may result in dismissal
+++++Time                                          0.00 seconds (0.00 total)
+*Absence to comply may result in dismissal
+++++Time                                          0.00 seconds (0.00 total)
+The question is who we should invite
+++++Time                                          0.00 seconds (0.01 total)
+*The party is who we should invite
+++++Time                                          0.00 seconds (0.01 total)
+The big question on everybody's mind is who killed OJ
+++++Time                                          0.00 seconds (0.01 total)
+*The big mind on everybody's question is who killed OJ
+++++Time                                          0.00 seconds (0.01 total)
+Do it the way you've always done it
+++++Time                                          0.00 seconds (0.01 total)
+I really like the way you do your hair
+++++Time                                          0.00 seconds (0.01 total)
+*I really like the fashion you do your hair
+++++Time                                          0.00 seconds (0.01 total)
+He made a request that there be an investigation
+++++Time                                          0.00 seconds (0.01 total)
+*He stated the fact that there be an investigation
+++++Time                                          0.00 seconds (0.01 total)
+He is the kind of person who would do that
+++++Time                                          0.00 seconds (0.02 total)
+*He is the character of person who would do that
+++++Time                                          0.00 seconds (0.02 total)
+An income tax increase may be necessary
+++++Time                                          0.00 seconds (0.02 total)
+*A tax on income increase may be necessary
+++++Time                                          0.00 seconds (0.02 total)
+Last week I saw a great movie
+++++Time                                          0.00 seconds (0.02 total)
+*Last dog I saw a great movie
+++++Time                                          0.00 seconds (0.02 total)
+The party that night was a big success
+++++Time                                          0.00 seconds (0.02 total)
+*The party that dog was a big success
+++++Time                                          0.00 seconds (0.02 total)
+John Stuart Mill is an important author
+++++Time                                          0.00 seconds (0.02 total)
+The Richard Milhous Nixon Library has been a big success
+++++Time                                          0.00 seconds (0.02 total)
+The mystery of the Nixon tapes was never solved
+++++Time                                          0.00 seconds (0.02 total)
+High income taxes are important
+++++Time                                          0.00 seconds (0.02 total)
+Oil company stock prices rose in heavy trading today
+++++Time                                          0.00 seconds (0.03 total)
+Metals futures prices rose in heavy trading today
+++++Time                                          0.00 seconds (0.03 total)
+U.S. economic indicators fell sharply last month
+++++Time                                          0.00 seconds (0.03 total)
+Columbia medical and administrative workers continued their strike today
+++++Time                                          0.00 seconds (0.03 total)
+Janet, who is an expert on dogs, helped me choose one
+++++Time                                          0.00 seconds (0.03 total)
+*Janet who is an expert on dogs helped me choose one
+++++Time                                          0.00 seconds (0.03 total)
+The dog that we eventually bought was very expensive
+++++Time                                          0.00 seconds (0.03 total)
+*The dog, that we eventually bought, was very expensive
+++++Time                                          0.00 seconds (0.03 total)
+*The dog, we eventually bought, was very expensive
+++++Time                                          0.00 seconds (0.04 total)
+Have you ever seen the Pacific
+++++Time                                          0.00 seconds (0.04 total)
+The new David Letterman is a happy, relaxed David Letterman
+++++Time                                          0.00 seconds (0.04 total)
+Actress Whoopi Goldberg and singer Michael Jackson attended the ceremony
+++++Time                                          0.00 seconds (0.04 total)
+We are from the planet Gorpon
+++++Time                                          0.00 seconds (0.04 total)
+This is my friend Bob
+++++Time                                          0.00 seconds (0.04 total)
+John's family is renovating their kitchen
+++++Time                                          0.00 seconds (0.04 total)
+*A man I know's family is renovating their kitchen
+++++Time                                          0.00 seconds (0.04 total)
+The boys' bedrooms will be enlarged
+++++Time                                          0.00 seconds (0.04 total)
+*The boys's bedrooms will be enlarged
+++++Time                                          0.00 seconds (0.04 total)
+My uncle's mother's cousin is visiting us
+++++Time                                          0.00 seconds (0.04 total)
+*Emily's my cousin is visiting us
+++++Time                                          0.00 seconds (0.04 total)
+We ate at Joe's Diner last week
+++++Time                                          0.00 seconds (0.04 total)
+The buy-out caused a free-for-all in the mid-afternoon
+++++Time                                          0.00 seconds (0.05 total)
+Joan Smith is president of the company
+++++Time                                          0.00 seconds (0.05 total)
+*Joan Smith is tourist
+++++Time                                          0.00 seconds (0.05 total)
+Alfred Baird, formerly vice president of Beevil Corp., has been appointed as president
+++++Time                                          0.00 seconds (0.05 total)
+*Alfred Baird, man I know, has been described as good gardener
+++++Time                                          0.00 seconds (0.05 total)
+A bunch of dogs are in the yard
+++++Time                                          0.00 seconds (0.05 total)
+*A picture of dogs are in the yard
+++++Time                                          0.00 seconds (0.05 total)
+Many people were angered by the hearings
+++++Time                                          0.00 seconds (0.05 total)
+*Many person were angered by the hearings
+++++Time                                          0.00 seconds (0.05 total)
+Many were angered by the hearings
+++++Time                                          0.00 seconds (0.05 total)
+My many female friends were angered by the hearings
+++++Time                                          0.00 seconds (0.05 total)
+*My some female friends were angered by the hearings
+++++Time                                          0.00 seconds (0.06 total)
+Many who initially supported Thomas later changed their minds
+++++Time                                          0.00 seconds (0.06 total)
+The stupidity of the senators annoyed all my friends
+++++Time                                          0.00 seconds (0.06 total)
+*The stupidity of the senators annoyed many my friends
+++++Time                                          0.00 seconds (0.06 total)
+I need to buy a present, but I want something inexpensive
+++++Time                                          0.00 seconds (0.06 total)
+*I need to buy a present, but I want a gift inexpensive
+++++Time                                          0.00 seconds (0.07 total)
+Anyone who thinks this will work is crazy
+++++Time                                          0.00 seconds (0.07 total)
+Their program is better than ours
+++++Time                                          0.00 seconds (0.07 total)
+Those that want to come can come
+++++Time                                          0.00 seconds (0.07 total)
+I read everything I could about the subject
+++++Time                                          0.00 seconds (0.07 total)
+I read whatever I could about the subjetc
+++++Time                                          0.00 seconds (0.07 total)
+*I read several books I could about the subject
+++++Time                                          0.00 seconds (0.07 total)
+the best costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+*a best costume got prizes
+++++Time                                          0.00 seconds (0.07 total)
+*some best costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+the best five costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+the five best costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+*the five best five costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+*the hundreds of best costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+*five best costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+*best costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+*best five costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+five other costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+the other five costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+*other five costumes got prizes
+++++Time                                          0.00 seconds (0.07 total)
+the other candy was really disgusting
+++++Time                                          0.00 seconds (0.07 total)
+*the five other candy was really disgusting
+++++Time                                          0.00 seconds (0.08 total)
+other candy is really disgusting
+++++Time                                          0.00 seconds (0.08 total)
+*other piece of candy was really bad
+++++Time                                          0.00 seconds (0.08 total)
+other costumes were really bad
+++++Time                                          0.00 seconds (0.08 total)
+some other costumes were really bad
+++++Time                                          0.00 seconds (0.08 total)
+2 million attended 
+++++Time                                          0.00 seconds (0.08 total)
+2863764 attended
+++++Time                                          0.00 seconds (0.08 total)
+2 million people attended
+++++Time                                          0.00 seconds (0.08 total)
+*2 million person attended 
+++++Time                                          0.00 seconds (0.08 total)
+a million attended 
+++++Time                                          0.00 seconds (0.08 total)
+a million people attended 
+++++Time                                          0.00 seconds (0.08 total)
+about 2 million people attended
+++++Time                                          0.00 seconds (0.08 total)
+about 2 million attended
+++++Time                                          0.00 seconds (0.08 total)
+*about people attended
+++++Time                                          0.00 seconds (0.08 total)
+a million such people attended
+++++Time                                          0.00 seconds (0.08 total)
+*a million such attended
+++++Time                                          0.00 seconds (0.08 total)
+5 million of the people attended
+++++Time                                          0.00 seconds (0.08 total)
+5 thousand invited by Bob attended
+++++Time                                          0.00 seconds (0.08 total)
+The 5 thousand invited by Bob attended
+++++Time                                          0.00 seconds (0.08 total)
+The thousands of people who attended enjoyed it
+++++Time                                          0.00 seconds (0.08 total)
+The 5 thousand people invited by Bob attended
+++++Time                                          0.00 seconds (0.08 total)
+The nearly 5 million people who attended enjoyed it
+++++Time                                          0.00 seconds (0.08 total)
+a few attended
+++++Time                                          0.00 seconds (0.08 total)
+a few million people attended
+++++Time                                          0.00 seconds (0.08 total)
+a few people attended
+++++Time                                          0.00 seconds (0.08 total)
+few attended
+++++Time                                          0.00 seconds (0.09 total)
+*few million people attended
+++++Time                                          0.00 seconds (0.09 total)
+millions attended
+++++Time                                          0.00 seconds (0.09 total)
+*5 millions attended
+++++Time                                          0.00 seconds (0.09 total)
+millions of people attended
+++++Time                                          0.00 seconds (0.09 total)
+hundreds of millions of people attended
+++++Time                                          0.00 seconds (0.09 total)
+5 million years ago, the earth was covered with ice
+++++Time                                          0.00 seconds (0.09 total)
+millions of years ago, the earth was covered with ice
+++++Time                                          0.00 seconds (0.09 total)
+*dogs of years ago, the earth was covered with ice
+++++Time                                          0.00 seconds (0.09 total)
+*the five million years ago, the earth was covered with ice
+++++Time                                          0.00 seconds (0.10 total)
+*the other five million years ago, the earth was covered with ice
+++++Time                                          0.00 seconds (0.10 total)
+*5 million ago, the earth was covered with ice
+++++Time                                          0.00 seconds (0.10 total)
+The city of New York contains over one hundred million billion brain cells
+++++Time                                          0.00 seconds (0.10 total)
+Almost one third of the people in the country have no health insurance
+++++Time                                          0.00 seconds (0.10 total)
+Of all the people in this country, almost one third have no health insurance
+++++Time                                          0.00 seconds (0.11 total)
+Three quarters of a million people in this city have no health insurance
+++++Time                                          0.00 seconds (0.11 total)
+The price of the stock rose three tenths of one point
+++++Time                                          0.00 seconds (0.11 total)
+*The price of the stock rose three tenths of one dog
+++++Time                                          0.00 seconds (0.11 total)
+The nearest drug store is about three quarters of a mile away 
+++++Time                                          0.00 seconds (0.11 total)
+The nearest drug store is about 3/4 of a mile away 
+++++Time                                          0.00 seconds (0.12 total)
+Every morning I walk 3 1/2 miles
+++++Time                                          0.00 seconds (0.12 total)
+*Every morning I walk 1/2 3 miles
+++++Time                                          0.00 seconds (0.12 total)
+Nearly 1/2 million people work here every day
+++++Time                                          0.00 seconds (0.12 total)
+Nearly 1 1/4 million people work here every day
+++++Time                                          0.00 seconds (0.12 total)
+*Nearly 1 million 1/4 people work here every day
+++++Time                                          0.00 seconds (0.12 total)
+Between 500 and 1000 people pass through here every minute
+++++Time                                          0.00 seconds (0.12 total)
+They are the Number 3 auto maker and a Fortune 500 company
+++++Time                                          0.00 seconds (0.12 total)
+I live at 805 West Indiana Street
+++++Time                                          0.00 seconds (0.12 total)
+We're thinking about going to a movie this evening
+++++Time                                          0.00 seconds (0.13 total)
+*We're thinking about going to a movie this theater
+++++Time                                          0.00 seconds (0.13 total)
+I've been grading these stupid exams all day
+++++Time                                          0.00 seconds (0.13 total)
+*I've been grading these stupid days all exam
+++++Time                                          0.00 seconds (0.13 total)
+We're having a big party Tuesday
+++++Time                                          0.00 seconds (0.13 total)
+*We're having a big party our house
+++++Time                                          0.00 seconds (0.13 total)
+*There is going to be an important meeting January
+++++Time                                          0.00 seconds (0.13 total)
+There is going to be an important meeting in January
+++++Time                                          0.00 seconds (0.13 total)
+There is going to be an important meeting next January
+++++Time                                          0.00 seconds (0.13 total)
+The party last week was a big success
+++++Time                                          0.00 seconds (0.14 total)
+John last week threw a great party
+++++Time                                          0.00 seconds (0.14 total)
+Until recently, these fossils were believed to belong to different species
+++++Time                                          0.00 seconds (0.14 total)
+*Until initially, these fossils were believed to belong to different species
+++++Time                                          0.00 seconds (0.14 total)
+*Until for many years, these fossils were believed to belong to different species
+++++Time                                          0.01 seconds (0.15 total)
+Until last week, these fossils were believed to belong to different species
+++++Time                                          0.00 seconds (0.15 total)
+*Until last meeting, these fossils were believed to belong to different species
+++++Time                                          0.01 seconds (0.16 total)
+I'm quite excited about next week
+++++Time                                          0.00 seconds (0.16 total)
+Monday sounds good for the meeting
+++++Time                                          0.00 seconds (0.16 total)
+Tomorrow might be a good time for the meeting
+++++Time                                          0.00 seconds (0.16 total)
+Last Tuesday was really fun
+++++Time                                          0.00 seconds (0.16 total)
+*Three days ago was really fun
+++++Time                                          0.00 seconds (0.16 total)
+Almost three years after our first date, I saw Ruth again
+++++Time                                          0.00 seconds (0.17 total)
+Almost three years after I first met her, I saw Ruth again
+++++Time                                          0.00 seconds (0.17 total)
+*Almost three years, I saw Ruth again
+++++Time                                          0.00 seconds (0.17 total)
+Almost three years later, I saw Ruth again
+++++Time                                          0.00 seconds (0.17 total)
+*Almost three years for our first date, I saw Ruth again
+++++Time                                          0.00 seconds (0.17 total)
+I saw her again a year and a half later
+++++Time                                          0.00 seconds (0.17 total)
+*I saw her again a year and a dog later
+++++Time                                          0.00 seconds (0.17 total)
+He left here a quarter of an hour ago
+++++Time                                          0.00 seconds (0.18 total)
+*He left here a quarter of a dog ago
+++++Time                                          0.00 seconds (0.18 total)
+*He left here a picture of an hour ago
+++++Time                                          0.00 seconds (0.18 total)
+I still remember the day I kissed him
+++++Time                                          0.00 seconds (0.18 total)
+*I still remember the room I kissed him
+++++Time                                          0.00 seconds (0.18 total)
+I'm going to Europe the day I graduate
+++++Time                                          0.00 seconds (0.18 total)
+Clinton is expected to return to Washington Thursday morning
+++++Time                                          0.00 seconds (0.18 total)
+*Clinton is expected to return to Thursday Washington office
+++++Time                                          0.00 seconds (0.19 total)
+Clinton is expected to return to Washington on Thursday morning
+++++Time                                          0.00 seconds (0.19 total)
+Clinton is expected to return to Washington late Thursday morning
+++++Time                                          0.00 seconds (0.19 total)
+Clinton is expected to return to Washington next Thursday morning
+++++Time                                          0.00 seconds (0.19 total)
+She walked out of the room the minute I saw her
+++++Time                                          0.00 seconds (0.20 total)
+*She walked out of the room two minutes I saw her
+++++Time                                          0.00 seconds (0.20 total)
+I was crazy about him the first time I saw him
+++++Time                                          0.00 seconds (0.20 total)
+*I was crazy about him the first party I saw him
+++++Time                                          0.00 seconds (0.20 total)
+In January 1990, a historic new law was passed
+++++Time                                          0.00 seconds (0.20 total)
+*In Washington 1990, a historic new law was passed
+++++Time                                          0.00 seconds (0.21 total)
+On January 15, 1990, a historic new law was passed
+++++Time                                          0.00 seconds (0.21 total)
+*On January 320, 1990, a historic new law was passed
+++++Time                                          0.00 seconds (0.21 total)
+He was convicted under an obscure 1990 law 
+++++Time                                          0.00 seconds (0.21 total)
+*He was convicted under an obscure 50 law
+++++Time                                          0.00 seconds (0.21 total)
+I wish I could see him 100 times a day
+++++Time                                          0.00 seconds (0.21 total)
+*I wish I could see him 3 meals a day
+++++Time                                          0.00 seconds (0.21 total)
+*I wish I could see him 100 times a dog
+++++Time                                          0.00 seconds (0.22 total)
+*I wish I could see him 100 times 2 days
+++++Time                                          0.00 seconds (0.22 total)
+It's good to eat three big meals a day
+++++Time                                          0.00 seconds (0.22 total)
+Someone is mugged in New York every five minutes
+++++Time                                          0.00 seconds (0.22 total)
+Her career lasted almost thirty years
+++++Time                                          0.00 seconds (0.22 total)
+*Her career lasted almost thirty books
+++++Time                                          0.00 seconds (0.22 total)
+Every morning at 5 a.m., Ken gets up and runs for five miles
+++++Time                                          0.01 seconds (0.22 total)
+At 4:52 p.m., on Monday, December 26, 1997, nothing happened
+++++Time                                          0.00 seconds (0.23 total)
+Which dog did you chase
+++++Time                                          0.00 seconds (0.23 total)
+*Which dog you chased
+++++Time                                          0.00 seconds (0.23 total)
+Which dog did you say you chased
+++++Time                                          0.00 seconds (0.23 total)
+*Which dog you said you chased
+++++Time                                          0.00 seconds (0.23 total)
+*Which dog did you say did you chase
+++++Time                                          0.00 seconds (0.23 total)
+I wonder which dog he said you chased
+++++Time                                          0.00 seconds (0.23 total)
+*I wonder which dog did he say you chased
+++++Time                                          0.00 seconds (0.23 total)
+*I wonder which dog did he say did you chase
+++++Time                                          0.00 seconds (0.23 total)
+What did John say he thought you should do
+++++Time                                          0.00 seconds (0.23 total)
+*What did John say did he think you should do
+++++Time                                          0.00 seconds (0.23 total)
+*What John said he thought you should do
+++++Time                                          0.00 seconds (0.24 total)
+What Alice did really annoyed me
+++++Time                                          0.00 seconds (0.24 total)
+*Who Alice did really annoyed me
+++++Time                                          0.00 seconds (0.24 total)
+Whoever designed this program didn't know what they were doing
+++++Time                                          0.00 seconds (0.24 total)
+*Who designed this program didn't know what they were doing
+++++Time                                          0.00 seconds (0.24 total)
+Invite John and whoever else you want to invite
+++++Time                                          0.00 seconds (0.24 total)
+The dog which Chris bought is really ugly
+++++Time                                          0.00 seconds (0.24 total)
+*The dog what Chris bought is really ugly
+++++Time                                          0.00 seconds (0.24 total)
+I wonder whether we should go
+++++Time                                          0.00 seconds (0.24 total)
+*Whether should we go
+++++Time                                          0.00 seconds (0.24 total)
+We can't decide whether to go to the party
+++++Time                                          0.00 seconds (0.24 total)
+*We can't decide who to go the party
+++++Time                                          0.00 seconds (0.24 total)
+*We can't decide whether to go the the party with
+++++Time                                          0.00 seconds (0.24 total)
+I am wondering who to go to the party with
+++++Time                                          0.00 seconds (0.25 total)
+I am wondering who to invite to the party
+++++Time                                          0.00 seconds (0.25 total)
+*I am wondering whether to invite to the party
+++++Time                                          0.00 seconds (0.25 total)
+*I am wondering the people to invite to the party
+++++Time                                          0.00 seconds (0.25 total)
+*Whether to go to the party
+++++Time                                          0.00 seconds (0.25 total)
+*Who to invite to the party
+++++Time                                          0.00 seconds (0.25 total)
+Do you think we should go to the party
+++++Time                                          0.00 seconds (0.25 total)
+*What do you think we should go to the party
+++++Time                                          0.00 seconds (0.25 total)
+How do you operate this machine
+++++Time                                          0.00 seconds (0.25 total)
+How fast is the program
+++++Time                                          0.00 seconds (0.25 total)
+How certain are you that John is coming
+++++Time                                          0.00 seconds (0.25 total)
+*How tired are you that John is coming
+++++Time                                          0.00 seconds (0.26 total)
+How likely is it that he will come
+++++Time                                          0.00 seconds (0.26 total)
+*How likely is John that he will come
+++++Time                                          0.00 seconds (0.26 total)
+How certain does he seem to be that John is coming
+++++Time                                          0.00 seconds (0.26 total)
+How efficient a program is it
+++++Time                                          0.00 seconds (0.26 total)
+*Efficient a program is it
+++++Time                                          0.00 seconds (0.26 total)
+*How fast programs are they
+++++Time                                          0.00 seconds (0.26 total)
+*How fast the program is it
+++++Time                                          0.00 seconds (0.26 total)
+How fast a program does he think it is
+++++Time                                          0.00 seconds (0.26 total)
+*How fast a program he thinks it is
+++++Time                                          0.00 seconds (0.27 total)
+*How fast programs does he think they are
+++++Time                                          0.00 seconds (0.27 total)
+*How big a dog chased you 
+++++Time                                          0.00 seconds (0.27 total)
+I wonder how fast a program he thinks it is
+++++Time                                          0.00 seconds (0.27 total)
+*I wonder how fast a program does he think it is
+++++Time                                          0.00 seconds (0.27 total)
+How much money did you earn
+++++Time                                          0.00 seconds (0.27 total)
+*How much money you earn
+++++Time                                          0.00 seconds (0.27 total)
+I wonder how much money you earned
+++++Time                                          0.00 seconds (0.27 total)
+*I wonder how much money have you earned
+++++Time                                          0.00 seconds (0.27 total)
+How much oil spilled
+++++Time                                          0.00 seconds (0.27 total)
+How much do you swim
+++++Time                                          0.00 seconds (0.27 total)
+*How much you swim
+++++Time                                          0.00 seconds (0.27 total)
+I wonder how much you swim
+++++Time                                          0.00 seconds (0.27 total)
+*I wonder how much do you swim
+++++Time                                          0.00 seconds (0.27 total)
+*I don't have how much money
+++++Time                                          0.00 seconds (0.28 total)
+I don't have very much money
+++++Time                                          0.00 seconds (0.28 total)
+I don't have much money
+++++Time                                          0.00 seconds (0.28 total)
+How much did you read
+++++Time                                          0.00 seconds (0.28 total)
+*How much of the book you read
+++++Time                                          0.00 seconds (0.28 total)
+How much of the book did you read
+++++Time                                          0.00 seconds (0.28 total)
+I wonder how much of the book you read
+++++Time                                          0.00 seconds (0.28 total)
+How many people died
+++++Time                                          0.00 seconds (0.28 total)
+How many people did you see
+++++Time                                          0.00 seconds (0.28 total)
+*How many people you saw
+++++Time                                          0.00 seconds (0.28 total)
+I wonder how many people you saw
+++++Time                                          0.00 seconds (0.28 total)
+I wonder how many of the people you saw were students
+++++Time                                          0.00 seconds (0.29 total)
+How did John do it
+++++Time                                          0.00 seconds (0.29 total)
+I wonder how John did it
+++++Time                                          0.00 seconds (0.29 total)
+How long will it last
+++++Time                                          0.00 seconds (0.29 total)
+*How big will it last
+++++Time                                          0.00 seconds (0.29 total)
+How many years did it take to do it
+++++Time                                          0.00 seconds (0.29 total)
+How big is the department
+++++Time                                          0.00 seconds (0.29 total)
+*How big the department is
+++++Time                                          0.00 seconds (0.29 total)
+*I wonder how big is the department
+++++Time                                          0.00 seconds (0.29 total)
+I wonder how big the department is
+++++Time                                          0.00 seconds (0.29 total)
+*I wonder how big departments they are
+++++Time                                          0.00 seconds (0.29 total)
+*I wonder how a department it is
+++++Time                                          0.00 seconds (0.29 total)
+I wonder how big a department it is
+++++Time                                          0.00 seconds (0.29 total)
+How important is it to turn the computer off
+++++Time                                          0.00 seconds (0.29 total)
+I wonder how important it is to turn off the computer
+++++Time                                          0.00 seconds (0.30 total)
+*I wonder how important is it to turn off the computer
+++++Time                                          0.00 seconds (0.30 total)
+How quickly did Joe run
+++++Time                                          0.00 seconds (0.30 total)
+*How quickly Joe ran
+++++Time                                          0.00 seconds (0.30 total)
+I know how quickly you ran
+++++Time                                          0.00 seconds (0.30 total)
+*I know how quickly did you run
+++++Time                                          0.00 seconds (0.30 total)
+*He ran I know how quickly
+++++Time                                          0.00 seconds (0.30 total)
+*Quickly did Joe run
+++++Time                                          0.00 seconds (0.30 total)
+*Very quickly did Joe run
+++++Time                                          0.00 seconds (0.30 total)
+*I know very quickly did Joe run
+++++Time                                          0.00 seconds (0.30 total)
+*I know quickly did John run
+++++Time                                          0.00 seconds (0.30 total)
+How much more quickly did you run
+++++Time                                          0.00 seconds (0.30 total)
+*How much more quickly you run
+++++Time                                          0.00 seconds (0.31 total)
+*I wonder how much more quickly did he run
+++++Time                                          0.00 seconds (0.31 total)
+I wonder how much more quickly he ran
+++++Time                                          0.00 seconds (0.31 total)
+How much more quickly did he run than Joe
+++++Time                                          0.00 seconds (0.31 total)
+How much more should we work on this
+++++Time                                          0.00 seconds (0.31 total)
+How much further do you think we should drive tonight
+++++Time                                          0.00 seconds (0.31 total)
+I don't know how much longer I can tolerate this
+++++Time                                          0.00 seconds (0.31 total)
+How much bigger is the dog
+++++Time                                          0.00 seconds (0.31 total)
+*How much bigger dogs are they
+++++Time                                          0.00 seconds (0.31 total)
+*How much bigger dogs ran
+++++Time                                          0.00 seconds (0.31 total)
+*How big dogs run
+++++Time                                          0.00 seconds (0.31 total)
+How much further did you run
+++++Time                                          0.00 seconds (0.31 total)
+How much more oil spilled
+++++Time                                          0.00 seconds (0.32 total)
+How much more spilled
+++++Time                                          0.00 seconds (0.32 total)
+How much more oil did they spill
+++++Time                                          0.00 seconds (0.32 total)
+How much more did they spill
+++++Time                                          0.00 seconds (0.32 total)
+*How much more they spilled
+++++Time                                          0.00 seconds (0.32 total)
+I wonder how much oil spilled
+++++Time                                          0.00 seconds (0.32 total)
+I wonder how much oil they spilled
+++++Time                                          0.00 seconds (0.32 total)
+*How much more efficient programs are available
+++++Time                                          0.00 seconds (0.32 total)
+How many dogs ran
+++++Time                                          0.00 seconds (0.32 total)
+How many ran
+++++Time                                          0.00 seconds (0.32 total)
+How many dogs did you see
+++++Time                                          0.00 seconds (0.32 total)
+How many more people did you see
+++++Time                                          0.00 seconds (0.32 total)
+How many more people do you think will come
+++++Time                                          0.00 seconds (0.32 total)
+I wonder how many more people he thinks will come
+++++Time                                          0.00 seconds (0.33 total)
+*I wonder how many more people does he think will come
+++++Time                                          0.00 seconds (0.33 total)
+How many times did you do it
+++++Time                                          0.00 seconds (0.33 total)
+*How many times you did it
+++++Time                                          0.00 seconds (0.33 total)
+I wonder how many times you did it
+++++Time                                          0.00 seconds (0.33 total)
+*How many more stupid times did you do it
+++++Time                                          0.00 seconds (0.33 total)
+How many years ago did you do it
+++++Time                                          0.00 seconds (0.33 total)
+*Many years ago did you do it
+++++Time                                          0.00 seconds (0.33 total)
+*How many years did you do it
+++++Time                                          0.00 seconds (0.33 total)
+I wonder how many years ago you did it
+++++Time                                          0.00 seconds (0.33 total)
+*How many years ago you did it
+++++Time                                          0.00 seconds (0.33 total)
+I'll show you the house where I met your mother
+++++Time                                          0.00 seconds (0.34 total)
+*I'll show you the house which I met your mother
+++++Time                                          0.00 seconds (0.34 total)
+This is the man whose dog I bought
+++++Time                                          0.00 seconds (0.34 total)
+*This is the man which dog I bought
+++++Time                                          0.00 seconds (0.34 total)
+I wonder where John is
+++++Time                                          0.00 seconds (0.34 total)
+*I wonder where John hit
+++++Time                                          0.00 seconds (0.34 total)
+The dogs, some of which were very large, ran after the man
+++++Time                                          0.00 seconds (0.34 total)
+The dogs, some of which I had seen before, ran after the man
+++++Time                                          0.00 seconds (0.35 total)
+*The dogs some of which were very large ran after the man
+++++Time                                          0.00 seconds (0.35 total)
+The box contained many books, some of which were badly damaged
+++++Time                                          0.01 seconds (0.35 total)
+*Some of which were badly damaged
+++++Time                                          0.00 seconds (0.36 total)
+*The box contained many books, some were badly damaged
+++++Time                                          0.00 seconds (0.36 total)
+*The box contained many books, some of the books were badly damaged
+++++Time                                          0.01 seconds (0.37 total)
+The dogs, some of them very large, ran after the man
+++++Time                                          0.00 seconds (0.37 total)
+*The dogs, some of the dogs very large, ran after the man
+++++Time                                          0.00 seconds (0.37 total)
+*Some of them very large ran after the man
+++++Time                                          0.00 seconds (0.37 total)
+The man was chased by dogs, some of them very large
+++++Time                                          0.00 seconds (0.38 total)
+I believe it was John who stole the priceless documents
+++++Time                                          0.00 seconds (0.38 total)
+*I believe Fred was John who stole the priceless documents
+++++Time                                          0.00 seconds (0.38 total)
+It seems to have been Einstein who first came up with the idea
+++++Time                                          0.00 seconds (0.38 total)
+*There seems to have been Einstein who first came up with the idea
+++++Time                                          0.00 seconds (0.38 total)
+*It hopes to have been Einstein who first came up with the idea
+++++Time                                          0.00 seconds (0.38 total)
+*The book discussed Einstein who first came up with the idea
+++++Time                                          0.00 seconds (0.38 total)
+*Stravinsky was in Paris that Debussy first heard Balinese music
+++++Time                                          0.00 seconds (0.39 total)
+It was in Paris that Debussy first heard Balinese music
+++++Time                                          0.00 seconds (0.39 total)
+It must have been there that he realized his destiny
+++++Time                                          0.00 seconds (0.39 total)
+*It tried to have been there that he realized his destiny
+++++Time                                          0.00 seconds (0.39 total)
+*He composed some good music that he realized his destiny
+++++Time                                          0.00 seconds (0.39 total)
+*It was quickly that he wrote his first symphony
+++++Time                                          0.00 seconds (0.39 total)
+Wasn't it in 1955 that Sally first met Joe
+++++Time                                          0.00 seconds (0.39 total)
+Whatever the outcome, I'm sure he'll still be popular
+++++Time                                          0.00 seconds (0.40 total)
+*Whatever an outcome, I'm sure he'll still be popular
+++++Time                                          0.00 seconds (0.40 total)
+Whatever the outcome is, I'm sure he'll still be popular
+++++Time                                          0.00 seconds (0.40 total)
+*What the outcome is, I'm sure he'll still be popular
+++++Time                                          0.00 seconds (0.40 total)
+The man we saw when we went to Paris is here
+++++Time                                          0.00 seconds (0.40 total)
+*The man we saw but we went to Paris is here
+++++Time                                          0.00 seconds (0.40 total)
+You should see a play while in London
+++++Time                                          0.00 seconds (0.41 total)
+*You should see a play after in London
+++++Time                                          0.00 seconds (0.41 total)
+I left the party after seeing Ann there
+++++Time                                          0.00 seconds (0.41 total)
+*I left the party because seeing Ann there
+++++Time                                          0.00 seconds (0.41 total)
+*I left the party despite I saw Ann there
+++++Time                                          0.00 seconds (0.41 total)
+Because I didn't see Ann, I left
+++++Time                                          0.00 seconds (0.41 total)
+*Therefore I didn't see Ann, I left
+++++Time                                          0.00 seconds (0.41 total)
+I left, therefore I didn't see Ann
+++++Time                                          0.00 seconds (0.41 total)
+But I really wanted to see her
+++++Time                                          0.00 seconds (0.41 total)
+*After I really wanted to see her
+++++Time                                          0.00 seconds (0.41 total)
+As I suspected, he had already left
+++++Time                                          0.00 seconds (0.41 total)
+*Because I suspected, he had already left
+++++Time                                          0.00 seconds (0.41 total)
+*I suspected, he had already left
+++++Time                                          0.00 seconds (0.41 total)
+*I suspected
+++++Time                                          0.00 seconds (0.41 total)
+Some grammars are better than others, as we have proved
+++++Time                                          0.00 seconds (0.41 total)
+As had been expected, the party was a big success
+++++Time                                          0.00 seconds (0.42 total)
+*As had been green, the party was a big success
+++++Time                                          0.00 seconds (0.42 total)
+*As had wanted to be expected, the party was a big success
+++++Time                                          0.00 seconds (0.42 total)
+*As had expected the party to be a success, it was a success
+++++Time                                          0.00 seconds (0.42 total)
+In the event that the case goes to trial, I'm sure Clinton will be acquitted
+++++Time                                          0.01 seconds (0.43 total)
+*In the scandal that the case goes to trial, I'm sure Clinton will be acquitted
+++++Time                                          0.01 seconds (0.44 total)
+He should be acquitted, on the grounds that there's no evidence
+++++Time                                          0.00 seconds (0.44 total)
+The public seem to love him, no matter what he does
+++++Time                                          0.00 seconds (0.44 total)
+*The public seem to love him, no matter the stupid things he does
+++++Time                                          0.01 seconds (0.45 total)
+Abrams does like programming
+++++Time                                          0.00 seconds (0.45 total)
+*Abrams does be a good programmer
+++++Time                                          0.00 seconds (0.45 total)
+He is being hired by another company
+++++Time                                          0.00 seconds (0.45 total)
+He is looking for another job
+++++Time                                          0.00 seconds (0.45 total)
+Fred has had five years of experience as a programmer
+++++Time                                          0.00 seconds (0.45 total)
+*Fred has had been a programmer for five years
+++++Time                                          0.00 seconds (0.45 total)
+I gave my mother the present I bought for her
+++++Time                                          0.00 seconds (0.46 total)
+I gave her the present I bought for her
+++++Time                                          0.00 seconds (0.46 total)
+*I gave my mother it
+++++Time                                          0.00 seconds (0.46 total)
+We picked out some beautiful flowers for her
+++++Time                                          0.00 seconds (0.46 total)
+We picked some beautiful flowers out for her
+++++Time                                          0.00 seconds (0.46 total)
+We picked them out for her
+++++Time                                          0.00 seconds (0.46 total)
+*We picked out them for her
+++++Time                                          0.00 seconds (0.46 total)
+Did you put the milk in the refrigerator
+++++Time                                          0.00 seconds (0.46 total)
+*Did you put the milk
+++++Time                                          0.00 seconds (0.46 total)
+Where did you put the milk
+++++Time                                          0.00 seconds (0.46 total)
+I hope he comes to the party tomorrow
+++++Time                                          0.00 seconds (0.46 total)
+I hope that he comes to the party tomorrow
+++++Time                                          0.00 seconds (0.46 total)
+*I hope him to come to the party tomorrow
+++++Time                                          0.00 seconds (0.46 total)
+I expect him to come to the party tomorrow
+++++Time                                          0.00 seconds (0.46 total)
+I expect to go to the party tomorrow
+++++Time                                          0.00 seconds (0.47 total)
+*I expect
+++++Time                                          0.00 seconds (0.47 total)
+*I expected who would come to the party
+++++Time                                          0.00 seconds (0.47 total)
+I knew who would come to the party
+++++Time                                          0.00 seconds (0.47 total)
+*I expected he go to the party
+++++Time                                          0.00 seconds (0.47 total)
+I suggested he go to the party
+++++Time                                          0.00 seconds (0.47 total)
+*He knew me how to use the program
+++++Time                                          0.00 seconds (0.47 total)
+He asked me how to use the program
+++++Time                                          0.00 seconds (0.47 total)
+*He disputed our program was superior
+++++Time                                          0.00 seconds (0.47 total)
+He disputed that our program was superior
+++++Time                                          0.00 seconds (0.47 total)
+Anne told me I would almost certainly be hired
+++++Time                                          0.00 seconds (0.47 total)
+*Anne expected me I would almost certainly be hired
+++++Time                                          0.00 seconds (0.47 total)
+*We argued adding new features to the program
+++++Time                                          0.00 seconds (0.47 total)
+We discussed adding new features to the program
+++++Time                                          0.00 seconds (0.47 total)
+*I thought terrible after our discussion
+++++Time                                          0.00 seconds (0.47 total)
+I felt terrible after our discussion
+++++Time                                          0.00 seconds (0.47 total)
+I made him make some changes in the program
+++++Time                                          0.00 seconds (0.48 total)
+*I encouraged him make some changes in the program
+++++Time                                          0.00 seconds (0.48 total)
+I helped him make some changes in the program
+++++Time                                          0.00 seconds (0.48 total)
+I helped make some changes in the program
+++++Time                                          0.00 seconds (0.48 total)
+*I saw make some changes in the program
+++++Time                                          0.00 seconds (0.48 total)
+*I made him telling her about the party
+++++Time                                          0.00 seconds (0.48 total)
+I saw him telling her about the party
+++++Time                                          0.00 seconds (0.48 total)
+Phil gave me a sweater which he bought in Paris
+++++Time                                          0.00 seconds (0.48 total)
+*Phil chose me a sweater which he bought in Paris
+++++Time                                          0.00 seconds (0.48 total)
+Alan bet me five dollars Clinton would lose the election
+++++Time                                          0.00 seconds (0.48 total)
+*Alan offered me five dollars Clinton would lose the election
+++++Time                                          0.00 seconds (0.48 total)
+She said she didn't approve of my behavior
+++++Time                                          0.00 seconds (0.48 total)
+*She said she didn't like of my behavior
+++++Time                                          0.00 seconds (0.49 total)
+The results are in, the game is up and the truth is out
+++++Time                                          0.01 seconds (0.49 total)
+*The in results show the out truth about the up game
+++++Time                                          0.00 seconds (0.49 total)
+*The results became in and the truth seemed out
+++++Time                                          0.00 seconds (0.49 total)
+He sold for five dollars the ring his mother had given him
+++++Time                                          0.00 seconds (0.50 total)
+Clinton announced on Tuesday a bold new proposal
+++++Time                                          0.00 seconds (0.50 total)
+*Clinton announced on Tuesday it
+++++Time                                          0.00 seconds (0.50 total)
+I gave my brother an expensive present
+++++Time                                          0.00 seconds (0.50 total)
+I gave him an expensive present
+++++Time                                          0.00 seconds (0.50 total)
+I gave an expensive present
+++++Time                                          0.00 seconds (0.50 total)
+I gave it
+++++Time                                          0.00 seconds (0.50 total)
+*I gave my brother it
+++++Time                                          0.00 seconds (0.50 total)
+I gave him for his birthday a very expensive present 
+++++Time                                          0.00 seconds (0.50 total)
+*I gave him for his birthday it
+++++Time                                          0.00 seconds (0.50 total)
+I gave for his birthday an expensive present 
+++++Time                                          0.00 seconds (0.50 total)
+*I gave for his birthday it
+++++Time                                          0.00 seconds (0.50 total)
+The President announced on Monday that several more bases would be closed
+++++Time                                          0.00 seconds (0.50 total)
+He had attempted for years to make a career as a concert pianist
+++++Time                                          0.00 seconds (0.51 total)
+*He had attempted for years
+++++Time                                          0.00 seconds (0.51 total)
+I asked him when I saw him at the party yesterday what he was working on
+++++Time                                          0.00 seconds (0.51 total)
+*I talked to him when I saw him at the party yesterday what he was working on
+++++Time                                          0.00 seconds (0.51 total)
+I wondered for a long time why everyone liked her so much
+++++Time                                          0.00 seconds (0.51 total)
+*I thought for a long time why everyone liked her so much
+++++Time                                          0.00 seconds (0.52 total)
+I told Margaret that I thought she would probably be hired
+++++Time                                          0.00 seconds (0.52 total)
+*I told on Tuesday Margaret that I thought she would probably be hired
+++++Time                                          0.00 seconds (0.52 total)
+I told Margaret on Tuesday that I thought she would probably be hired
+++++Time                                          0.00 seconds (0.52 total)
+We discussed at the meeting hiring a new secretary
+++++Time                                          0.00 seconds (0.52 total)
+*We discussed at the meeting
+++++Time                                          0.00 seconds (0.53 total)
+We informed the new employees that no salary increase would be possible
+++++Time                                          0.00 seconds (0.53 total)
+We informed at the meeting the new employees
+++++Time                                          0.00 seconds (0.53 total)
+*We informed at the meeting the new employees that no salary increase would be possible
+++++Time                                          0.01 seconds (0.54 total)
+They were asked that he be allowed to go
+++++Time                                          0.00 seconds (0.54 total)
+If his calculations were correct, Copernicus reasoned, the earth must revolve around the sun
+++++Time                                          0.01 seconds (0.54 total)
+The earth, Copernicus reasoned, must revolve around the sun
+++++Time                                          0.00 seconds (0.55 total)
+The earth must revolve around the sun, Copernicus reasoned
+++++Time                                          0.00 seconds (0.55 total)
+*The earth must revolve around the sun, Copernicus was happy
+++++Time                                          0.00 seconds (0.55 total)
+*The earth must revolve around the sun, Copernicus destroyed
+++++Time                                          0.00 seconds (0.55 total)
+*The earth, the pope cringed when Copernicus reasoned, revolves around the sun
+++++Time                                          0.00 seconds (0.55 total)
+Abortion was legal until the third month, the court ruled
+++++Time                                          0.01 seconds (0.56 total)
+If the pregnancy was within the first three months, the court ruled, abortion was legal
+++++Time                                          0.02 seconds (0.58 total)
+Nobody, it seems, wants to be a liberal
+++++Time                                          0.00 seconds (0.58 total)
+*Nobody, John seems, wants to be a liberal
+++++Time                                          0.00 seconds (0.58 total)
+Business is booming, Joe Smith, a car dealer, says
+++++Time                                          0.00 seconds (0.58 total)
+Business is booming, says Joe Smith, a car dealer
+++++Time                                          0.00 seconds (0.59 total)
+You can do anything you want, I told her
+++++Time                                          0.00 seconds (0.59 total)
+In the last few years, it seems, nobody wants to be a liberal
+++++Time                                          0.00 seconds (0.59 total)
+Also invited to the meeting were several prominent scientists
+++++Time                                          0.00 seconds (0.59 total)
+*Also invited to the meeting invited several prominent scientists
+++++Time                                          0.00 seconds (0.59 total)
+Also awarded the prize was Jean Smith, a prominent computer scientist
+++++Time                                          0.00 seconds (0.60 total)
+Chosen to lead the commission was Fred Schultz, a former Federal judge
+++++Time                                          0.00 seconds (0.60 total)
+*Chosen to lead the commission seemed likely to be Fred Schultz, a former Federal judge
+++++Time                                          0.01 seconds (0.61 total)
+*Chooses to lead the investigation Fred Schultz
+++++Time                                          0.00 seconds (0.61 total)
+*Choose to lead the investigation did Fred Schultz
+++++Time                                          0.00 seconds (0.61 total)
+Also recommended in the report was a new initiative to combat crime
+++++Time                                          0.00 seconds (0.61 total)
+*Also chosen the leader for the commission was Fred Schultz
+++++Time                                          0.00 seconds (0.61 total)
+Included in our paper is a summary of the features of our program
+++++Time                                          0.00 seconds (0.62 total)
+Also performing in the concert were members of the Budapest Quartet
+++++Time                                          0.00 seconds (0.62 total)
+*Were performing in the concert members of the Budapest Quartet
+++++Time                                          0.00 seconds (0.62 total)
+Voting in favor of the bill were 36 Republicans and 4 moderate Democrats
+++++Time                                          0.01 seconds (0.63 total)
+Glaring coldly at Sarah, he walked out of the room
+++++Time                                          0.00 seconds (0.63 total)
+He walked out of the room, glaring coldly at Sarah
+++++Time                                          0.00 seconds (0.63 total)
+*Glaring coldly at Sarah, walking out of the room
+++++Time                                          0.00 seconds (0.63 total)
+Finding that it was impossible to get work as a waiter, he worked as a janitor
+++++Time                                          0.01 seconds (0.64 total)
+He had hoped to get work as a waiter, but, finding this was impossible, he worked as a janitor
+++++Time                                          0.02 seconds (0.67 total)
+*He said that, finding that it was impossible to get work as a waiter, he would work as a janitor
+++++Time                                          0.02 seconds (0.69 total)
+Used by some of the finest pianists in the country, Baldwin pianos are technical marvels
+++++Time                                          0.02 seconds (0.71 total)
+Using specially designed parts, Baldwin pianos are technical marvels
+++++Time                                          0.01 seconds (0.71 total)
+*Used specially designed parts, Baldwin pianos are technical marvels
+++++Time                                          0.00 seconds (0.71 total)
+Sending a message of discontent to Washington, voters overwhelmingly rejected the Clinton administration
+++++Time                                          0.01 seconds (0.72 total)
+She's a really good player
+++++Time                                          0.00 seconds (0.72 total)
+John's coming to the party tonight
+++++Time                                          0.00 seconds (0.72 total)
+He's usually gone to Boston for Thanksgiving
+++++Time                                          0.00 seconds (0.72 total)
+*Do you know where John's
+++++Time                                          0.00 seconds (0.72 total)
+Who's afraid of the big bad wolf
+++++Time                                          0.00 seconds (0.72 total)
+That's just the kind of person he is
+++++Time                                          0.00 seconds (0.72 total)
+*That's just the kind of person he's
+++++Time                                          0.00 seconds (0.73 total)
+There's no reason to get so upset about it
+++++Time                                          0.00 seconds (0.73 total)
+I didn't think he would do it, but he did
+++++Time                                          0.00 seconds (0.73 total)
+*I didn't think he would invite her, but he invited
+++++Time                                          0.00 seconds (0.73 total)
+If you don't want to do it, you should find someone who will
+++++Time                                          0.00 seconds (0.73 total)
+If you don't want to do it, you should find someone who does
+++++Time                                          0.00 seconds (0.73 total)
+Find someone who does
+++++Time                                          0.00 seconds (0.73 total)
+*Find someone who wants to do
+++++Time                                          0.00 seconds (0.73 total)
+I don't like programming, and someone who does may be difficult to find
+++++Time                                          0.01 seconds (0.74 total)
+The price of the stock more than doubled in two days
+++++Time                                          0.00 seconds (0.74 total)
+*The price of the stock more than increased in two days
+++++Time                                          0.00 seconds (0.74 total)
+I finally figured out why this program is so slow
+++++Time                                          0.00 seconds (0.74 total)
+*I finally flipped out why this program is so slow
+++++Time                                          0.00 seconds (0.74 total)
+It turns out that Clinton didn't actually kiss Monica
+++++Time                                          0.00 seconds (0.74 total)
+If you go around doing that, you're going to end up making people mad
+++++Time                                          0.01 seconds (0.75 total)
+The lawyer pointed out that Clinton didn't actually kiss Monica
+++++Time                                          0.00 seconds (0.76 total)
+A party is taking place, so if you'd like to show up, you should do so
+++++Time                                          0.01 seconds (0.76 total)
+I have doubts about inviting him
+++++Time                                          0.00 seconds (0.76 total)
+*I have doubts during inviting him
+++++Time                                          0.00 seconds (0.76 total)
+I prevented her from doing it by praising her for not doing it
+++++Time                                          0.00 seconds (0.77 total)
+From your description, I don't think I would enjoy it
+++++Time                                          0.00 seconds (0.77 total)
+We had an argument over whether it was a good movie
+++++Time                                          0.00 seconds (0.77 total)
+*We had an argument at whether it was a good movie
+++++Time                                          0.00 seconds (0.77 total)
+Because of the rain, we decided to stay home
+++++Time                                          0.00 seconds (0.77 total)
+They're having a party in front of the building
+++++Time                                          0.00 seconds (0.77 total)
+The man with whom I play tennis is here
+++++Time                                          0.00 seconds (0.77 total)
+The man I play tennis with is here
+++++Time                                          0.00 seconds (0.77 total)
+*The man whom I play tennis is here
+++++Time                                          0.00 seconds (0.78 total)
+*The man with whom I play tennis with is here
+++++Time                                          0.00 seconds (0.78 total)
+With whom did you play tennis 
+++++Time                                          0.00 seconds (0.78 total)
+Who did you play tennis with 
+++++Time                                          0.00 seconds (0.78 total)
+The data on file will be used for the project at hand, which is already under way
+++++Time                                          0.01 seconds (0.79 total)
+*The data on project will be used for the file at program
+++++Time                                          0.00 seconds (0.80 total)
+The project was finished on schedule, as usual
+++++Time                                          0.00 seconds (0.80 total)
+*The project as usual and the report on schedule were finished 
+++++Time                                          0.00 seconds (0.80 total)
+I told him by telephone that I was coming by car
+++++Time                                          0.00 seconds (0.80 total)
+From in back of the shed, I heard a scream that seemed to come from on top of the garage
+++++Time                                          0.01 seconds (0.81 total)
+The university spends $5 per student
+++++Time                                          0.00 seconds (0.81 total)
+*The university spends $5 per the student
+++++Time                                          0.00 seconds (0.81 total)
+They're building a gigantic mall five miles from here
+++++Time                                          0.00 seconds (0.81 total)
+*They're building a gigantic mall five mistakes from here
+++++Time                                          0.00 seconds (0.81 total)
+The 7-11 is half a mile up the road, but the supermarket is a long way away
+++++Time                                          0.01 seconds (0.82 total)
+I'm sure things will get done with Janet running the company 
+++++Time                                          0.00 seconds (0.83 total)
+*I'm sure things will get done by Janet running the company 
+++++Time                                          0.00 seconds (0.83 total)
+*I'm sure things will get done because Janet running the company 
+++++Time                                          0.00 seconds (0.83 total)
+With Janet in charge, I'm sure things will get done
+++++Time                                          0.01 seconds (0.84 total)
+You are lucky that there is no exam today
+++++Time                                          0.00 seconds (0.84 total)
+*You are stupid that there is no exam today
+++++Time                                          0.00 seconds (0.84 total)
+You are lucky I am here
+++++Time                                          0.00 seconds (0.84 total)
+*You are right I am here
+++++Time                                          0.00 seconds (0.84 total)
+This is something we should be happy about
+++++Time                                          0.00 seconds (0.84 total)
+*This is something we should be happy 
+++++Time                                          0.00 seconds (0.84 total)
+*The happy about it man kissed his wife
+++++Time                                          0.00 seconds (0.84 total)
+Is he sure how to find the house
+++++Time                                          0.00 seconds (0.84 total)
+*Is he correct how to find the house
+++++Time                                          0.00 seconds (0.84 total)
+You should be proud of your achievement
+++++Time                                          0.00 seconds (0.84 total)
+*You should be happy of your achievement
+++++Time                                          0.00 seconds (0.84 total)
+He is the smartest man I know
+++++Time                                          0.00 seconds (0.84 total)
+*They are some smartest men I know
+++++Time                                          0.00 seconds (0.84 total)
+I've seen a lot of programs, but ours is the fastest
+++++Time                                          0.01 seconds (0.85 total)
+Ours is the fastest of the programs we have seen
+++++Time                                          0.00 seconds (0.85 total)
+I've seen a lot of programs, but ours runs the most quickly
+++++Time                                          0.01 seconds (0.86 total)
+*This is our the fastest program
+++++Time                                          0.00 seconds (0.86 total)
+Voters angry about the economy will probably vote for Clinton
+++++Time                                          0.00 seconds (0.86 total)
+*Voters angry will probably vote for Clinton
+++++Time                                          0.00 seconds (0.86 total)
+Many Democrats unhappy about the economy but doubtful that Clinton can be elected  probably won't vote at all
+++++Time                                          0.01 seconds (0.87 total)
+*Many Democrats unhappy but doubtful probably won't vote at all
+++++Time                                          0.00 seconds (0.87 total)
+*Many Democrats likely that Bush will be reelected probably won't vote
+++++Time                                          0.00 seconds (0.87 total)
+Hundreds of young men, furious about the verdict in the Rodney King case, looted stores in Los Angeles today
+++++Time                                          0.01 seconds (0.89 total)
+*Hundreds of young men, furious, looted stores in Los Angeles today
+++++Time                                          0.00 seconds (0.89 total)
+We need a programmer knowledgeable about Lisp
+++++Time                                          0.00 seconds (0.89 total)
+*We need a programmer knowledgeable
+++++Time                                          0.00 seconds (0.89 total)
+Any program as good as ours should be useful
+++++Time                                          0.00 seconds (0.89 total)
+*Any program good should be useful
+++++Time                                          0.00 seconds (0.89 total)
+Let us know if you have a program capable of parsing this sentence
+++++Time                                          0.00 seconds (0.89 total)
+*Let us know if you have a program capable
+++++Time                                          0.00 seconds (0.89 total)
+It is believed that even the troops loyal to Hussein will soon be forced to surrender
+++++Time                                          0.01 seconds (0.91 total)
+*It is believed that even the troops loyal will soon be forced to surrender
+++++Time                                          0.01 seconds (0.91 total)
+Republican policies only benefit the rich and powerful
+++++Time                                          0.00 seconds (0.92 total)
+Republican policies only benefit the rich and the powerful
+++++Time                                          0.00 seconds (0.92 total)
+*Republican policies only benefit a rich and a powerful
+++++Time                                          0.00 seconds (0.92 total)
+*Republican policies only benefit some rich and some powerful
+++++Time                                          0.00 seconds (0.92 total)
+The meek will inherit the earth, and the best is the enemy of the good
+++++Time                                          0.01 seconds (0.92 total)
+They're building a skyscraper over 1000 feet tall
+++++Time                                          0.00 seconds (0.93 total)
+*They're building a skyscraper tall
+++++Time                                          0.00 seconds (0.93 total)
+The river is half a mile wide here and 300 feet deep
+++++Time                                          0.00 seconds (0.93 total)
+*The river is half a mile beautiful and 300 feet dangerous
+++++Time                                          0.00 seconds (0.93 total)
+Mr. John Smith, 66 years old, will succeed him as president
+++++Time                                          0.00 seconds (0.93 total)
+*Mr. John Smith, old, will succeed him as president
+++++Time                                          0.00 seconds (0.93 total)
+A big black ugly dog chased me
+++++Time                                          0.00 seconds (0.93 total)
+A big, black, ugly dog chased me
+++++Time                                          0.00 seconds (0.93 total)
+The former astronaut was alone and afraid
+++++Time                                          0.00 seconds (0.93 total)
+*The alone astronaut was former
+++++Time                                          0.00 seconds (0.93 total)
+He is apparently an expert on dogs
+++++Time                                          0.00 seconds (0.94 total)
+*He knows apparently an expert on dogs
+++++Time                                          0.00 seconds (0.94 total)
+Mary quickly walked out of the room
+++++Time                                          0.00 seconds (0.94 total)
+Mary just walked out of the room
+++++Time                                          0.00 seconds (0.94 total)
+Quickly, Mary walked out of the room
+++++Time                                          0.00 seconds (0.94 total)
+Mary walked out of the room quickly
+++++Time                                          0.00 seconds (0.94 total)
+*Mary walked out of the room just
+++++Time                                          0.00 seconds (0.94 total)
+He told them about the accident immediately
+++++Time                                          0.00 seconds (0.94 total)
+*He told them about the accident presumably
+++++Time                                          0.00 seconds (0.94 total)
+He told them about the accident, presumably
+++++Time                                          0.00 seconds (0.94 total)
+She is very careful about her work
+++++Time                                          0.00 seconds (0.94 total)
+She works very carefully
+++++Time                                          0.00 seconds (0.94 total)
+*She very works carefully
+++++Time                                          0.00 seconds (0.94 total)
+Is the piece easy enough for you
+++++Time                                          0.00 seconds (0.94 total)
+Is the piece too easy for you
+++++Time                                          0.00 seconds (0.94 total)
+*Is the piece enough easy for you
+++++Time                                          0.00 seconds (0.94 total)
+She is apparently an excellent pianist
+++++Time                                          0.00 seconds (0.94 total)
+*She married apparently an excellent pianist
+++++Time                                          0.00 seconds (0.94 total)
+Only after the movie did he realize his mistake
+++++Time                                          0.00 seconds (0.94 total)
+*After the movie did he realize his mistake
+++++Time                                          0.00 seconds (0.94 total)
+I may have taken cocaine a few times, but at no time did I inhale
+++++Time                                          0.01 seconds (0.95 total)
+*A few times may I have taken cocaine, but I inhaled at no time
+++++Time                                          0.01 seconds (0.96 total)
+Never have I seen such a grotesque display of incompetence
+++++Time                                          0.00 seconds (0.96 total)
+*Often have I seen such a grotesque display of incompetence
+++++Time                                          0.00 seconds (0.96 total)
+We like to eat at restaurants, particularly on weekends
+++++Time                                          0.00 seconds (0.96 total)
+We like to eat at restaurants, usually on weekends
+++++Time                                          0.00 seconds (0.96 total)
+*We like to eat at restaurants, fortunately on weekends
+++++Time                                          0.00 seconds (0.96 total)
+Such flowers are found mainly in Europe
+++++Time                                          0.00 seconds (0.97 total)
+*Such flowers are found apparently in Europe
+++++Time                                          0.00 seconds (0.97 total)
+*Such flowers are found mainly particularly in Europe
+++++Time                                          0.00 seconds (0.97 total)
+*Such flowers are found mainly
+++++Time                                          0.00 seconds (0.97 total)
+Many people, particularly doctors, believe there is no health care crisis
+++++Time                                          0.00 seconds (0.97 total)
+*Many people, strongly doctors, believe there is no health care crisis
+++++Time                                          0.00 seconds (0.97 total)
+I found a house that even John thinks we should buy
+++++Time                                          0.00 seconds (0.97 total)
+He told me that even his mother likes me
+++++Time                                          0.00 seconds (0.98 total)
+*He told me that even, his mother likes me
+++++Time                                          0.00 seconds (0.98 total)
+We put the pie straight in the oven
+++++Time                                          0.00 seconds (0.98 total)
+*We put the pie quickly in the oven
+++++Time                                          0.00 seconds (0.98 total)
+We put the pie straight in
+++++Time                                          0.00 seconds (0.98 total)
+*We put the pie straight
+++++Time                                          0.00 seconds (0.98 total)
+He lives high in the mountains
+++++Time                                          0.00 seconds (0.98 total)
+He lives over by the lake
+++++Time                                          0.00 seconds (0.98 total)
+*He lives over by
+++++Time                                          0.00 seconds (0.98 total)
+The apparently angry man walked out of the room
+++++Time                                          0.00 seconds (0.98 total)
+The often underpaid administrators resent the invariably rude students and the understandably impatient professors
+++++Time                                          0.00 seconds (0.98 total)
+The delicately lyrical tone of the cello contrasted with the fiercely percussive piano chords
+++++Time                                          0.00 seconds (0.98 total)
+The always delicately lyrical tone was really beautiful
+++++Time                                          0.00 seconds (0.98 total)
+*The delicately always lyrical tone was really beautiful
+++++Time                                          0.00 seconds (0.99 total)
+*The delicately very lyrical tone was really beautiful
+++++Time                                          0.00 seconds (0.99 total)
+Biochemically, I think the experiment has a lot of problems
+++++Time                                          0.00 seconds (0.99 total)
+I think the experiment has a lot of problems biochemically
+++++Time                                          0.00 seconds (0.99 total)
+It is biochemically an interesting experiment
+++++Time                                          0.00 seconds (0.99 total)
+I'm not sure the results are biochemically valid
+++++Time                                          0.00 seconds (0.99 total)
+There is a dog in the park
+++++Time                                          0.00 seconds (0.99 total)
+*There is chasing dogs
+++++Time                                          0.00 seconds (0.99 total)
+*There are a dog in the park
+++++Time                                          0.00 seconds (0.99 total)
+Does there seem to be a dog in the park?
+++++Time                                          0.00 seconds (0.99 total)
+*Does there want to be a dog in the park?
+++++Time                                          0.00 seconds (0.99 total)
+There seems to appear to have been likely to be a problem
+++++Time                                          0.00 seconds (0.99 total)
+*There seems to appear to have been likely to be problems
+++++Time                                          0.00 seconds (1.00 total)
+*There seems to appear to have been likely to be stupid
+++++Time                                          0.00 seconds (1.00 total)
+There was an attempt to kill Rod
+++++Time                                          0.00 seconds (1.00 total)
+The man there was an attempt to kill died
+++++Time                                          0.00 seconds (1.00 total)
+There was a problem, but we solved it
+++++Time                                          0.00 seconds (1.00 total)
+It is likely that Rod died
+++++Time                                          0.00 seconds (1.00 total)
+*Joe is likely that Rod died
+++++Time                                          0.00 seconds (1.00 total)
+It is clear who killed Rod
+++++Time                                          0.00 seconds (1.00 total)
+*Joe is clear who killed Rod
+++++Time                                          0.00 seconds (1.00 total)
+It may not be possible to fix the problem
+++++Time                                          0.00 seconds (1.00 total)
+Grace may not be possible to fix the problem
+++++Time                                          0.00 seconds (1.00 total)
+It is important that women be ready when they make these choices
+++++Time                                          0.00 seconds (1.00 total)
+*It is clear that women be ready when they make these choices
+++++Time                                          0.00 seconds (1.01 total)
+*Joe is important that women be ready when they make these choices
+++++Time                                          0.00 seconds (1.01 total)
+flowers are red to attract bees
+++++Time                                          0.00 seconds (1.01 total)
+I made it clear that I was angry
+++++Time                                          0.00 seconds (1.01 total)
+*I made Anne clear that I was angry
+++++Time                                          0.00 seconds (1.01 total)
+Dick is easy to hit
+++++Time                                          0.00 seconds (1.01 total)
+*Dick is big to hit
+++++Time                                          0.00 seconds (1.01 total)
+It is important to fix the problem
+++++Time                                          0.00 seconds (1.01 total)
+Dick is important to fix the problem
+++++Time                                          0.00 seconds (1.01 total)
+The man it is likely that John hit died
+++++Time                                          0.00 seconds (1.02 total)
+*The man Joe is likely that Dick hit died
+++++Time                                          0.00 seconds (1.02 total)
+Does it seem likely that Ann will come
+++++Time                                          0.00 seconds (1.02 total)
+Does Ann act glad that Joe came
+++++Time                                          0.00 seconds (1.02 total)
+*Does it act likely that Joe came
+++++Time                                          0.00 seconds (1.02 total)
+It doesn't matter what Ted does
+++++Time                                          0.00 seconds (1.02 total)
+*Joe doesn't matter what Ted does
+++++Time                                          0.00 seconds (1.02 total)
+I want it to be possible to use the program
+++++Time                                          0.00 seconds (1.02 total)
+I want Joe to be possible to use the program
+++++Time                                          0.00 seconds (1.02 total)
+I want it to be clear that it was my idea
+++++Time                                          0.00 seconds (1.02 total)
+*I asked it to be clear that it was my idea
+++++Time                                          0.00 seconds (1.02 total)
+I want it to be obvious how to use the program
+++++Time                                          0.00 seconds (1.03 total)
+*I want Emily to be obvious how to use the program
+++++Time                                          0.00 seconds (1.03 total)
+I want Joe to be easy to hit
+++++Time                                          0.00 seconds (1.03 total)
+It is likely they will come
+++++Time                                          0.00 seconds (1.03 total)
+*Joe is likely they will come
+++++Time                                          0.00 seconds (1.03 total)
+This is because he is extremely famous
+++++Time                                          0.00 seconds (1.03 total)
+The trial is because he is extremely famous
+++++Time                                          0.00 seconds (1.03 total)
+The excitement over the trial is because he is extremely famous
+++++Time                                          0.00 seconds (1.03 total)
+This seems to have been because he is extremely famous
+++++Time                                          0.00 seconds (1.03 total)
+Our program works more elegantly than yours
+++++Time                                          0.00 seconds (1.03 total)
+Ours works more elegantly than yours does
+++++Time                                          0.00 seconds (1.03 total)
+Ours works more elegantly than yours works
+++++Time                                          0.00 seconds (1.03 total)
+*Ours works more elegant than yours
+++++Time                                          0.00 seconds (1.03 total)
+*Ours is more elegant than yours works
+++++Time                                          0.00 seconds (1.03 total)
+Our program works more elegantly than efficiently
+++++Time                                          0.00 seconds (1.03 total)
+Our program is more elegant than efficient
+++++Time                                          0.00 seconds (1.03 total)
+Our program works better than yours
+++++Time                                          0.00 seconds (1.03 total)
+We do this more for pleasure than for money
+++++Time                                          0.00 seconds (1.03 total)
+He is more likely to go than to stay
+++++Time                                          0.00 seconds (1.04 total)
+*He is more likely than to stay
+++++Time                                          0.00 seconds (1.04 total)
+*He is more black to go than to stay
+++++Time                                          0.00 seconds (1.04 total)
+He is more likely to go than he is to stay
+++++Time                                          0.01 seconds (1.04 total)
+He is more likely to go than John is
+++++Time                                          0.00 seconds (1.05 total)
+It is more likely that Joe died than that Fred died
+++++Time                                          0.00 seconds (1.05 total)
+It is more likely that Joe died than it is that Fred died
+++++Time                                          0.00 seconds (1.05 total)
+*John is more likely that Joe died than it is that Fred died
+++++Time                                          0.00 seconds (1.06 total)
+*It is more likely that Joe died than John is that Fred died
+++++Time                                          0.00 seconds (1.06 total)
+It is easier to ignore the problem than to solve it
+++++Time                                          0.00 seconds (1.06 total)
+It is easier to ignore the problem than it is to solve it
+++++Time                                          0.00 seconds (1.07 total)
+*Greg is easier to ignore the problem than to solve it
+++++Time                                          0.00 seconds (1.07 total)
+Our program is easier to use than to understand
+++++Time                                          0.00 seconds (1.07 total)
+*Our program is easier to use it than to understand
+++++Time                                          0.00 seconds (1.07 total)
+I am more happy now than I was in college
+++++Time                                          0.00 seconds (1.07 total)
+*I am more happy now than I earned in college
+++++Time                                          0.00 seconds (1.08 total)
+He is more a teacher than a scholar
+++++Time                                          0.00 seconds (1.08 total)
+I make more money in a month than John makes in a year
+++++Time                                          0.00 seconds (1.08 total)
+I make more money in a month than John dies in a year
+++++Time                                          0.00 seconds (1.08 total)
+I hit more the dog than the cat
+++++Time                                          0.00 seconds (1.08 total)
+I have more money than John has time
+++++Time                                          0.00 seconds (1.08 total)
+I have more dogs than John has five cats
+++++Time                                          0.00 seconds (1.08 total)
+I have more money than John has a dog
+++++Time                                          0.00 seconds (1.09 total)
+She interviewed more programmers than were hired
+++++Time                                          0.00 seconds (1.09 total)
+*She interviewed more programmers than was hired
+++++Time                                          0.00 seconds (1.09 total)
+I am as intelligent as John
+++++Time                                          0.00 seconds (1.09 total)
+I earn as much money as John does
+++++Time                                          0.00 seconds (1.09 total)
+I am as intelligent as John does
+++++Time                                          0.00 seconds (1.09 total)
+I earn as much money in a month as John earns in a year
+++++Time                                          0.00 seconds (1.09 total)
+*I earn as much money in a month than John earns in a year
+++++Time                                          0.00 seconds (1.10 total)
+Our program was better than had been expected
+++++Time                                          0.00 seconds (1.10 total)
+*Our program was better than had been argued
+++++Time                                          0.00 seconds (1.10 total)
+*Our program was better than had been responded
+++++Time                                          0.00 seconds (1.10 total)
+Our program was better than was expected
+++++Time                                          0.00 seconds (1.10 total)
+*Our program was better than were expected
+++++Time                                          0.00 seconds (1.10 total)
+More people came to the party than were expected
+++++Time                                          0.00 seconds (1.10 total)
+More people came to the party than was expected
+++++Time                                          0.00 seconds (1.10 total)
+Our program did not run as quickly as expected
+++++Time                                          0.00 seconds (1.10 total)
+*Our program did not run as quickly as said
+++++Time                                          0.00 seconds (1.10 total)
+How much faster is our program than theirs
+++++Time                                          0.00 seconds (1.11 total)
+*How much faster our program is than theirs
+++++Time                                          0.00 seconds (1.11 total)
+The more quickly we write the program, the more money we will earn
+++++Time                                          0.00 seconds (1.11 total)
+*The more people like the program
+++++Time                                          0.00 seconds (1.11 total)
+*The people like the program, the more money we will earn
+++++Time                                          0.00 seconds (1.11 total)
+The better the program is, the more people will like it
+++++Time                                          0.01 seconds (1.12 total)
+The better the program, the more people will like it
+++++Time                                          0.01 seconds (1.13 total)
+*The better a program, the more people will like it
+++++Time                                          0.01 seconds (1.13 total)
+The less likely it is that we can parse this, the easier it is to understand 
+++++Time                                          0.00 seconds (1.14 total)
+The shuttle is so big that it has to be carried on the back of a jet 
+++++Time                                          0.00 seconds (1.14 total)
+*The shuttle is big that it has to be carried on the back of a jet 
+++++Time                                          0.00 seconds (1.15 total)
+So many people attended that they spilled over into several neighboring fields
+++++Time                                          0.00 seconds (1.15 total)
+*Many people attended that they spilled over into several neighboring fields
+++++Time                                          0.00 seconds (1.15 total)
+The program has so many problems that you should probably just rewrite it
+++++Time                                          0.00 seconds (1.15 total)
+*The program has many problems that you should probably just rewrite it
+++++Time                                          0.00 seconds (1.16 total)
+I love her so much that I can't let her go
+++++Time                                          0.00 seconds (1.16 total)
+*I love her very much that I can't let her go
+++++Time                                          0.00 seconds (1.16 total)
+He ran home so quickly that his mother could hardly believe he had called from school
+++++Time                                          0.00 seconds (1.16 total)
+*He ran home quickly that his mother could hardly believe he had called from school
+++++Time                                          0.00 seconds (1.16 total)
+She presented her case with such eloquence that we could only admire her
+++++Time                                          0.00 seconds (1.17 total)
+*She presented her case with eloquence that we could only admire her
+++++Time                                          0.00 seconds (1.17 total)
+I went to the store and got a gallon of milk
+++++Time                                          0.00 seconds (1.17 total)
+*I got and went a gallon of milk
+++++Time                                          0.00 seconds (1.17 total)
+I got a gallon of milk and some eggs
+++++Time                                          0.00 seconds (1.17 total)
+I went to the store, got a gallon of milk, and returned the eggs
+++++Time                                          0.01 seconds (1.18 total)
+*I went to the store, got a gallon of milk, and some eggs
+++++Time                                          0.01 seconds (1.18 total)
+Mary, Joe and Louise are coming to the party
+++++Time                                          0.00 seconds (1.18 total)
+Neither Mary nor Louise are coming to the party
+++++Time                                          0.00 seconds (1.19 total)
+I am ready and eager to go to the party
+++++Time                                          0.00 seconds (1.19 total)
+She handled it skillfully and with compassion
+++++Time                                          0.00 seconds (1.19 total)
+I told him that I hated him and that I never wanted to see him again
+++++Time                                          0.00 seconds (1.19 total)
+He told me why he was here and what he was doing
+++++Time                                          0.00 seconds (1.19 total)
+*He told me why he was here and that he hated me
+++++Time                                          0.00 seconds (1.19 total)
+Although he likes me and he respects me, he says he needs some privacy
+++++Time                                          0.00 seconds (1.20 total)
+Your house and garden are very attractive
+++++Time                                          0.00 seconds (1.20 total)
+I am in New York and I would like to see you
+++++Time                                          0.00 seconds (1.20 total)
+This is not the man we know and love
+++++Time                                          0.00 seconds (1.20 total)
+*This is not the man we know and love him
+++++Time                                          0.00 seconds (1.20 total)
+The coverage on TV and on the radio has been terrible
+++++Time                                          0.00 seconds (1.20 total)
+*The coverage on TV and I have seen has been terrible
+++++Time                                          0.00 seconds (1.21 total)
+The sky is blue, so it is likely that Joe will come
+++++Time                                          0.00 seconds (1.21 total)
+*It is blue and likely that Joe will come
+++++Time                                          0.00 seconds (1.21 total)
+That is the man for whom and with whom Joe works
+++++Time                                          0.00 seconds (1.21 total)
+*That is the man for whom and with Janet Joe works
+++++Time                                          0.00 seconds (1.22 total)
+*When did Joe and John did leave the party
+++++Time                                          0.00 seconds (1.22 total)
+My dog, cat, and cousin's friend came
+++++Time                                          0.00 seconds (1.22 total)
+*My dog, cat, horse, mouse, and his cow left
+++++Time                                          0.00 seconds (1.22 total)
+My dog, cat, horse, and mouse, and his cow left
+++++Time                                          0.00 seconds (1.23 total)
+you should not only ask for your money back, but demand it
+++++Time                                          0.00 seconds (1.23 total)
+I was both angry and sad at the same time
+++++Time                                          0.00 seconds (1.23 total)
+There is neither a dog nor a cat here
+++++Time                                          0.00 seconds (1.24 total)
+*There are neither a dog nor a cat here
+++++Time                                          0.00 seconds (1.24 total)
+There is a dog or a cat here
+++++Time                                          0.00 seconds (1.24 total)
+*There are a dog or a cat here
+++++Time                                          0.00 seconds (1.24 total)
+*There are a dog and a cat here
+++++Time                                          0.00 seconds (1.24 total)
+There is a dog and a cat here
+++++Time                                          0.00 seconds (1.24 total)
+He and I are friends
+++++Time                                          0.00 seconds (1.24 total)
+neither I nor my friend knows what happened
+++++Time                                          0.00 seconds (1.24 total)
+neither I nor my friend know what happened
+++++Time                                          0.00 seconds (1.24 total)
+Either I or my friend knows what happened
+++++Time                                          0.00 seconds (1.24 total)
+Either I or my friend know what happened
+++++Time                                          0.00 seconds (1.25 total)
+The dog and cats know what happened
+++++Time                                          0.00 seconds (1.25 total)
+*The dog and cats knows what happened
+++++Time                                          0.00 seconds (1.25 total)
+Are a dog and a cat here
+++++Time                                          0.00 seconds (1.25 total)
+*Is a dog and a cat here
+++++Time                                          0.00 seconds (1.25 total)
+*Is John and I invited
+++++Time                                          0.00 seconds (1.25 total)
+Are John and I invited
+++++Time                                          0.00 seconds (1.25 total)
+Is John or I invited
+++++Time                                          0.00 seconds (1.25 total)
+Are John or I invited
+++++Time                                          0.00 seconds (1.25 total)
+Is neither John nor I invited
+++++Time                                          0.00 seconds (1.25 total)
+Are neither John nor I invited
+++++Time                                          0.00 seconds (1.25 total)
+Playing the piano bothers John
+++++Time                                          0.00 seconds (1.25 total)
+Releasing the program at this point would annoy our competitors
+++++Time                                          0.00 seconds (1.25 total)
+The playing of the piano really bothers John
+++++Time                                          0.00 seconds (1.25 total)
+*The playing the piano really bothers John
+++++Time                                          0.00 seconds (1.25 total)
+Telling Joe about the party would create a real problem
+++++Time                                          0.00 seconds (1.26 total)
+*The telling Joe about the party could create a real problem
+++++Time                                          0.00 seconds (1.26 total)
+Your telling Joe about the party could create a real problem
+++++Time                                          0.00 seconds (1.26 total)
+Telling Joe that Sue was coming to the party would create a real problem
+++++Time                                          0.01 seconds (1.26 total)
+Telling would create a real problem
+++++Time                                          0.00 seconds (1.26 total)
+I want her to know about it, but the telling won't be easy
+++++Time                                          0.00 seconds (1.27 total)
+*The telling her won't be easy
+++++Time                                          0.00 seconds (1.27 total)
+*Some children like to tease
+++++Time                                          0.00 seconds (1.27 total)
+Teasing can be very cruel
+++++Time                                          0.00 seconds (1.27 total)
+Your telling John to leave may have destroyed your relationship
+++++Time                                          0.00 seconds (1.27 total)
+The graduating of Fred changes the situation
+++++Time                                          0.00 seconds (1.27 total)
+The sleeping of students is becoming a big problem
+++++Time                                          0.00 seconds (1.27 total)
+The sleeping of students can ruin a lecture
+++++Time                                          0.00 seconds (1.27 total)
+Buying of shares was brisk on Wall Street today
+++++Time                                          0.00 seconds (1.28 total)
+The sleeping in class is becoming a big problem
+++++Time                                          0.00 seconds (1.28 total)
+*The telling John to leave was stupid
+++++Time                                          0.00 seconds (1.28 total)
+*The inviting your mother was stupid
+++++Time                                          0.00 seconds (1.28 total)
+*The showing how to use the program seemed to interest people
+++++Time                                          0.00 seconds (1.28 total)
+*The attempting to go to the party angered Joe
+++++Time                                          0.00 seconds (1.28 total)
+The showing of the program seemed to impress people
+++++Time                                          0.00 seconds (1.28 total)
+The sleeping of students described by Fred is a big problem
+++++Time                                          0.00 seconds (1.29 total)
+The sleeping of students I told you about is a big problem
+++++Time                                          0.00 seconds (1.29 total)
+The frequent sleeping of students is a big problem
+++++Time                                          0.00 seconds (1.29 total)
+His hitting of the dog didn't help matters
+++++Time                                          0.00 seconds (1.29 total)
+Some hitting of dogs will solve the problem
+++++Time                                          0.00 seconds (1.30 total)
+the drug running here has become a massive problem
+++++Time                                          0.00 seconds (1.30 total)
+He made a mistake in inviting John
+++++Time                                          0.00 seconds (1.30 total)
+He made a mistake in the inviting of John
+++++Time                                          0.00 seconds (1.30 total)
+I should have talked to you before inviting John
+++++Time                                          0.00 seconds (1.30 total)
+I should have talked to you before the inviting of John
+++++Time                                          0.00 seconds (1.30 total)
+To pretend that our program is usable in its current form would be silly
+++++Time                                          0.01 seconds (1.31 total)
+*To pretend that our program is usable in its current form would be happy
+++++Time                                          0.01 seconds (1.31 total)
+That our program will be immediately accepted is hardly likely
+++++Time                                          0.00 seconds (1.32 total)
+*That our program will be immediately accepted wrote the program
+++++Time                                          0.00 seconds (1.32 total)
+*Is that our program will be accepted likely
+++++Time                                          0.00 seconds (1.32 total)
+*That our program will be accepted seems likely that our program will be accepted
+++++Time                                          0.00 seconds (1.32 total)
+Whether we should go to the party is the important question
+++++Time                                          0.00 seconds (1.32 total)
+*Whether we should go to the party annoys me
+++++Time                                          0.00 seconds (1.32 total)
+Using the conventional Minuet form, Beethoven produced a piece of great originality
+++++Time                                          0.01 seconds (1.33 total)
+Written in 1820, the symphony shows a new level of maturity for the composer
+++++Time                                          0.01 seconds (1.34 total)
+Abandoned by his friends, he left Vienna three years later
+++++Time                                          0.00 seconds (1.34 total)
+In Vienna, Beethoven met someone who would later be greatly influenced by him: Franz Schubert
+++++Time                                          0.00 seconds (1.34 total)
+*In Vienna, Beethoven met someone who would later be greatly influenced by him; Franz Schubert
+++++Time                                          0.00 seconds (1.35 total)
+Today I did something very important: I bought a dog
+++++Time                                          0.00 seconds (1.35 total)
+*The store where I did something very important: I bought a dog was closed today
+++++Time                                          0.00 seconds (1.35 total)
+It has been said that Schubert ran out of the room when he met Beethoven; but we now know this is untrue
+++++Time                                          0.01 seconds (1.36 total)
+An important question remains: did Beethoven know about Schubert's music
+++++Time                                          0.00 seconds (1.36 total)
+She just wanted one thing: to be a professional skater
+++++Time                                          0.00 seconds (1.36 total)
+She knew one thing: that she would be a professional skater
+++++Time                                          0.00 seconds (1.37 total)
+I agree that, in some ways, your program is better
+++++Time                                          0.00 seconds (1.37 total)
+I agree that in some ways, your program is better
+++++Time                                          0.00 seconds (1.37 total)
+*I agree that, in some ways your program is better
+++++Time                                          0.00 seconds (1.37 total)
+That is the man who, in Joe's opinion, we should hire
+++++Time                                          0.00 seconds (1.37 total)
+*That is the man, in Joe's opinion, we should hire
+++++Time                                          0.00 seconds (1.38 total)
+*That is the man who, in Joe's opinion we should hire
+++++Time                                          0.00 seconds (1.38 total)
+I know you hate Bill, but why did you send him that nasty note
+++++Time                                          0.00 seconds (1.38 total)
+*I know you hate Bill, because why did you send him that nasty note
+++++Time                                          0.00 seconds (1.38 total)
+But why did you send him that nasty note
+++++Time                                          0.00 seconds (1.38 total)
+If John was with Lisa last night, who went to the movie with Diane
+++++Time                                          0.00 seconds (1.39 total)
+*Although John was with Lisa last night, who went to the movie with Diane
+++++Time                                          0.00 seconds (1.39 total)
+We need a President who understands us
+++++Time                                          0.00 seconds (1.39 total)
+We need a president who understands us
+++++Time                                          0.00 seconds (1.39 total)
+*We need a Melvin who understand us
+++++Time                                          0.00 seconds (1.39 total)
+The Zongle of Bongle Dongle resigned today
+++++Time                                          0.00 seconds (1.39 total)
+*A Zongle with a Bongle Dongle resigned today
+++++Time                                          0.00 seconds (1.39 total)
+The National Association of Linguists is meeting here
+++++Time                                          0.00 seconds (1.39 total)
+*An Association that many Linguists belong to is meeting here
+++++Time                                          0.00 seconds (1.39 total)
+An association that many linguists belong to is meeting here
+++++Time                                          0.00 seconds (1.39 total)
+If you were a middle-class American without a job, who would you vote for
+++++Time                                          0.01 seconds (1.40 total)
+Many Croats who had fled their homes are now returning to them
+++++Time                                          0.00 seconds (1.40 total)
+*Many Croat who had fled their homes are now returning to them
+++++Time                                          0.00 seconds (1.41 total)
+Chinese is a wonderful language, Chinese food is nice, and the Chinese are nice people
+++++Time                                          0.04 seconds (1.45 total)
+*Armenian is a wonderful language, Armenian food is great, and the Armenian are nice people
+++++Time                                          0.03 seconds (1.48 total)
+Armenian is a wonderful language, Armenian food is great, and the Armenians are nice people
+++++Time                                          0.03 seconds (1.51 total)
+Danish is a wonderful language, Danish food is great, and the Danish are nice people
+++++Time                                          0.05 seconds (1.56 total)
+The Danes are nice people
+++++Time                                          0.00 seconds (1.56 total)
+Dr Jane Smith lives on Main St
+++++Time                                          0.00 seconds (1.56 total)
+Dr. Jane Smith lives on Main St.
+++++Time                                          0.00 seconds (1.56 total)
+*Dr. Jane. Smith. lives on Main. St.
+++++Time                                          0.00 seconds (1.56 total)
+Dr. J.G.D. Smith lives on Main St.
+++++Time                                          0.00 seconds (1.57 total)
+*A Dr. lives on this St
+++++Time                                          0.00 seconds (1.57 total)
+Mr. Smith (a lawyer for Kodak) refused to comment
+++++Time                                          0.00 seconds (1.57 total)
+Mr. Smith -- a lawyer for Kodak -- refused to comment
+++++Time                                          0.00 seconds (1.57 total)
+We left (carrying the dog) and Fred followed
+++++Time                                          0.01 seconds (1.58 total)
+I have $50, but I want a $50000 car
+++++Time                                          0.00 seconds (1.58 total)
+10% of the employees here do 90% of the work
+++++Time                                          0.00 seconds (1.58 total)
+Zangbert stock fell 30% to $2.50 yesterday, but jumped 10% today in heavy trading
+++++Time                                          0.01 seconds (1.59 total)
+*Zangbert stock fell %, but jumped to $ today
+++++Time                                          0.00 seconds (1.59 total)
+With a 5% raise, I can get a $50000 car
+++++Time                                          0.00 seconds (1.59 total)
+"What are you doing?" she asked.
+++++Time                                          0.00 seconds (1.59 total)
+"This is what I'm going to do," he replied.
+++++Time                                          0.00 seconds (1.59 total)
+"This is what I'm going to do!" he replied.
+++++Time                                          0.00 seconds (1.59 total)
+*"This is what I'm going to do." he replied.
+++++Time                                          0.00 seconds (1.60 total)
+*"This is what I'm doing to do" he replied.
+++++Time                                          0.00 seconds (1.60 total)
+"On second thought," he said, "this is what I'm going to do".
+++++Time                                          0.00 seconds (1.60 total)
+"Quotation marks" are simply "ignored" by our "program"
+++++Time                                          0.00 seconds (1.60 total)
+Sometimes, people do this: They follow the colon with a capital letter.
+++++Time                                          0.00 seconds (1.60 total)
+*However, they never do this; They don't follow a semi-colon with a capital letter.
+++++Time                                          0.00 seconds (1.61 total)
+John said: "This is another use of colons one sometimes sees".
+++++Time                                          0.00 seconds (1.61 total)
+Formerly, he had worked for Brody, McGill & Demson
+++++Time                                          0.00 seconds (1.61 total)
+*He was unhappy & underpaid 
+++++Time                                          0.00 seconds (1.61 total)
+The rally, at 6:00 last night, was attended by 1.1 million people
+++++Time                                          0.00 seconds (1.62 total)

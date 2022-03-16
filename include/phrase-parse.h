@@ -4,7 +4,7 @@
 /* All rights reserved                                                          */
 /*                                                                              */
 /* Use of the link grammar parsing system is subject to the terms of the        */
-/* license set forth in the LICENSE file included with this software,           */
+/* license set forth in the LICENSE file included with this software,           */ 
 /* and also available at http://www.link.cs.cmu.edu/link/license.html           */
 /* This license allows free redistribution and use in source and binary         */
 /* forms, with or without modification, subject to certain conditions.          */
@@ -17,38 +17,36 @@
 
 #define MAXINPUT 1024
 #define DISPLAY_MAX 100
-#define COMMENT_CHAR '%' /* input lines beginning with this are ignored */
+#define COMMENT_CHAR '%'  /* input lines beginning with this are ignored */
 
 #define DICTIONARY "/afs/cs/project/link-8/link-3.1/data/3.1.dict"
 #define PP_KNOWLEDGE "/afs/cs/project/link-8/link-3.1/data/3.1.knowledge"
 #define CONSTITUENT_KNOWLEDGE "/afs/cs/project/link-8/link-3.1/data/constituent.knowledge"
 
-static int display_all = FALSE;
+static int display_all=FALSE;
 static int max_sentence_length;
-static int min_short_sent_len = 20;
+static int min_short_sent_len=20;
 static PostProcessor pp;
 
-String_set *phrase_ss;
+String_set * phrase_ss;
 
-struct
-{
+struct {
   int left;
   int right;
-  char *type;
+  char * type;
   char domain_type;
-  char *start_link;
+  char * start_link;
   int start_num;
-  int subl;
+  int subl; 
   int canon;
   int valid;
-  int aux; /* 0: it's an ordinary VP (or other type); 1: it's an AUX, don't print it; 2:
-  it's an AUX, and print it */
+  int aux;      /* 0: it's an ordinary VP (or other type); 1: it's an AUX, don't print it; 2:
+		   it's an AUX, and print it */
 } constituent[1000];
 
 int myword[256];
 int word_used[16][256];
-struct
-{
+struct {
   int num;
   int e[10];
   int valid;
@@ -63,15 +61,14 @@ char word[100][100];
 char linkexp[100];
 char linknameexp[10];
 
-struct
-{
+struct {
   int lword;
   int rword;
   int mysnum;
   char type[100];
 } xlink[100];
 
-String_set *postscript_ss;
+String_set * postscript_ss;
 
 int fget_input_string(char *, FILE *, FILE *, Parse_Options);
 int uppercompare(char *, char *);

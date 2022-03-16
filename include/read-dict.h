@@ -10,7 +10,7 @@
 /* forms, with or without modification, subject to certain conditions.          */
 /*                                                                              */
 /********************************************************************************/
-int  open_dictionary(char * dict_path_name, Dictionary dict);
+int open_dictionary(char * dict_path_name, Dictionary dict);
 int  read_dictionary(Dictionary dict);
 void dict_display_word_info(Dictionary dict, char * s);
 void print_dictionary_data(Dictionary dict);

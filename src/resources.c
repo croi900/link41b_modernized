@@ -14,9 +14,6 @@
 #include "link-includes.h"
 #include <time.h>
 
-#if !defined(WIN32)
-#include <time.h>
-#endif
 
 #if defined(__linux__)
 /* based on reading the man page for getrusage on linux, I inferred that
@@ -38,10 +35,7 @@ int getrusage(int who, struct rusage *rusage);
 
 static double current_usage_time(void)
 {
-/* returns the current usage time clock in seconds */
-#if !defined(WIN32)
     return ((double)clock()) / CLOCKS_PER_SEC;
-#endif
 }
 
 void print_time(Parse_Options opts, char *s)
