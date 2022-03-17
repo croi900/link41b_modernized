@@ -9,6 +9,8 @@
 /* This license allows free redistribution and use in source and binary         */
 /* forms, with or without modification, subject to certain conditions.          */
 /*                                                                              */
+
+#pragma once
 /********************************************************************************/
 #ifndef _ERRORH_
 #define _ERRORH_

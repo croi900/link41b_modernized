@@ -16,7 +16,7 @@
 * Functions to manipulate Dictionaries
 *
 *****************************************************************************/
-
+#pragma once
 
 Dictionary dictionary_create(char * dict_name, char * pp_name, char * cons_name, char * affix_name);
 int           dictionary_delete(Dictionary dict);

@@ -1,3 +1,5 @@
+
+#pragma once
 /********************************************************************************/
 /* Copyright (c) 2004                                                           */
 /* Daniel Sleator, David Temperley, and John Lafferty                           */

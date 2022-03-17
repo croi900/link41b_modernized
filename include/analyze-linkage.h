@@ -10,6 +10,8 @@
 /* forms, with or without modification, subject to certain conditions.          */
 /*                                                                              */
 /********************************************************************************/
+#pragma once
+
 void          extract_thin_linkage(Sentence sent, Parse_Options opts, Linkage linkage);
 void          extract_fat_linkage (Sentence sent, Parse_Options opts, Linkage linkage);
 Linkage_info  analyze_fat_linkage (Sentence sent, Parse_Options opts, int pass);

@@ -18,8 +18,8 @@ SRC         = src
 INC         = include
 OBJ         = obj
 BIN         = .
-CC          = gcc
-CFLAGS      = -c -g -O
+CC          = ar
+CFLAGS      = -cvq
 CLDFLAGS    = -O -g 
 
 INCLUDES    =\
@@ -47,7 +47,7 @@ ${OBJ}/count.o ${OBJ}/build-disjuncts.o ${OBJ}/constituents.o\
 ${OBJ}/print-util.o
 
 ${BIN}/parse: ${OBJECTS}
-		${CC} ${CLDFLAGS} ${OBJECTS} -o ${BIN}/parse 
+		${CC} ${CLDFLAGS} ${OBJECTS} -o ${BIN}/parse.a
 
 ${OBJ}/parse.o: ${SRC}/parse.c ${INCLUDES} ${INC}/command-line.h
 		${CC} ${CFLAGS} -I${INC} ${SRC}/parse.c -o ${OBJ}/parse.o
